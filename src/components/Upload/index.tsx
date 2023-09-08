@@ -25,6 +25,7 @@ const Upload = (props: UploadProps) => {
                 <input
                     id="file"
                     type="file"
+                    accept=".csv"
                     onChange={handleFileChange}
                 />
             </label>
