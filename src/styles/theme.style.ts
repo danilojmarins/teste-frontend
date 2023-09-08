@@ -7,7 +7,8 @@ const theme = {
         border_shade: '#DDD',
         text_light: '#FFF',
         primary: '#0DAB77',
-        secondary: '#1E2044'
+        secondary: '#1E2044',
+        erro: '#DC3545'
     }
 }
 
